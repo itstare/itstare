@@ -1,5 +1,5 @@
-👋 Hi, I'm Tarik Vreto
-🌱 I'm interested in Web development
+👋 Hi, I'm Tarik Vreto <br>
+🌱 I'm interested in Web development <br>
 ⚡ I'm available for hire
 👯 I'm always open for collaborations and new ideas
 📫 Reach me @_itstare_
