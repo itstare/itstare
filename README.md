@@ -2,7 +2,7 @@
 🌱 I'm interested in Web development <br>
 ⚡ I'm available for hire <br>
 👯 I'm always open for collaborations and new ideas <br>
-📫 Reach me @__itstare__
+📫 Reach me @_itstare_
 
 <!--
 **itstare/itstare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
