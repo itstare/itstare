@@ -1,7 +1,7 @@
 👋 Hi, I'm Tarik Vreto <br>
 🌱 I'm interested in Web development <br>
-⚡ I'm available for hire
-👯 I'm always open for collaborations and new ideas
+⚡ I'm available for hire <br>
+👯 I'm always open for collaborations and new ideas <br>
 📫 Reach me @_itstare_
 
 <!--
